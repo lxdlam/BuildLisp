@@ -80,3 +80,8 @@ dkms.conf
 
 
 # End of https://www.gitignore.io/api/visualstudiocode,linux,c
+
+# All binarys
+src/*
+!src/*.c
+!src/*.h
